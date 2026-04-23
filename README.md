@@ -1,6 +1,6 @@
 # Medical QA Agent MVP
 
-This project builds a Chinese-first medical QA agent for health education.
+This project builds a  medical QA agent for health education.
 
 ## Safety boundary
 
