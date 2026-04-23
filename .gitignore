@@ -4,3 +4,6 @@ pycache/
 .env
 data/raw/
 data/index/
+data/agent_memory.sqlite
+app/.langgraph_api/
+outputs/agent_artifacts/
