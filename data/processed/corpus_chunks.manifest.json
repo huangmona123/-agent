@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-04-16T08:46:55.783699+00:00",
+  "inputs": [
+    "C:\\agent\\data\\raw\\medlineplus_topics_en.jsonl",
+    "C:\\agent\\data\\raw\\pubmed_abstracts.jsonl"
+  ],
+  "docs_out": "C:\\agent\\data\\processed\\corpus_docs.jsonl",
+  "chunks_out": "C:\\agent\\data\\processed\\corpus_chunks.jsonl",
+  "doc_count": 545,
+  "chunk_count": 1629,
+  "duplicate_count": 0,
+  "skipped_count": 0,
+  "source_stats": {
+    "medlineplus": 500,
+    "pubmed": 45
+  },
+  "chunking": {
+    "chunk_size": 900,
+    "chunk_overlap": 150,
+    "min_chunk_chars": 120
+  }
+}
